@@ -1,0 +1,11 @@
+{
+  "name": "adpaterpato",
+  "version": "1.0.0",
+  "description": "Desenvolvimento 3.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Diniz",
+  "license": "ISC"
+}
